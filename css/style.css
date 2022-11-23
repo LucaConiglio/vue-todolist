@@ -1,0 +1,5 @@
+.btn-danger:hover{
+    transition: 0.5s;
+    scale: 1.3;
+    color: rgb(0, 0, 0);
+}
